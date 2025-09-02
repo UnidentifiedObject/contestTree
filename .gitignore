@@ -1,0 +1,9 @@
+# Ignore exported images
+*.png
+
+# Ignore saved canvas JSON files
+*.json
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
